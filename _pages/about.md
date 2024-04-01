@@ -15,19 +15,20 @@ I completed my undergraduate degree in Computer Engineering at Sharif University
 
 # Ongoing Work
 
-  * ### Prophet Inequalities with Cancellation Costs
+  * ### [Prophet Inequalities with Cancellation Costs](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4779633)
     * With Rad Niazadeh, Pranav Nuti, and Jan Vondrák
   * ### Dynamic Information Design in the Principal-Agent problem
     * With René Caldentey and Ennio Stacchetti
-  * ### Online Job Assignment
+  * ### [Online Job Assignment](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4745629)
     * With Yiding Feng, Ian Kash, and Rad Niazadeh
     
 # Publications
 
-  * ### Prophet Inequalities with Cancellation Costs
+  * ### [Prophet Inequalities with Cancellation Costs](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4779633)
     * In Proceedings of the 56th Annual ACM Symposium on Theory of Computing (STOC 2024)
     * With Rad Niazadeh, Pranav Nuti, and Jan Vondrák
-  * ### [Online Resource Allocation with Buyback: Optimal Algorithms via Primal-Dual](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4245468)
+  * ### [Online Matching with Cancellation Costs](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4245468)
+    * or Online Resource Allocation with Buyback: Optimal Algorithms via Primal-Dual
     * In Proceedings of the 24th ACM Conference on Economics and Computation (EC 2023)
     * With Yiding Feng and Rad Niazadeh
   * ### [Quantitative assessment can stabilize indirect reciprocity under imperfect information](https://www.nature.com/articles/s41467-023-37817-x)
