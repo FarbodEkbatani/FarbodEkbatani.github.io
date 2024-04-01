@@ -15,6 +15,9 @@ I completed my undergraduate degree in Computer Engineering at Sharif University
 
 # Ongoing Work
 
+  
+  * ### A Stochastic Growth Model for Online Platforms
+    * With René Caldentey
   * ### [Prophet Inequalities with Cancellation Costs](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4779633)
     * With Rad Niazadeh, Pranav Nuti, and Jan Vondrák
   * ### Dynamic Information Design in the Principal-Agent problem
