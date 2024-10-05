@@ -7,23 +7,24 @@ redirect_from:
   - /about.html
 ---
 
-I am a third year Ph.D. student in [Management Science/ Operations Research](https://www.chicagobooth.edu/phd/dissertation-areas/management-science-and-operations-management) at The University of Chicago, Booth School of Business. My research advisors are [René Caldentey](https://faculty.chicagobooth.edu/rene-caldentey?_ga=2.143548341.1856357377.1668716911-1774430081.1668716911&_gl=1*ua7x8l*_ga*MTc3NDQzMDA4MS4xNjY4NzE2OTEx*_ga_PDRJWHFTEV*MTY2ODczMDAxNC4yLjEuMTY2ODczMDQxOC4zNC4wLjA.) and [Rad Niazadeh](https://faculty.chicagobooth.edu/rad-niazadeh).
+I am a fourth year Ph.D. student in [Management Science/ Operations Research](https://www.chicagobooth.edu/phd/dissertation-areas/management-science-and-operations-management) at The University of Chicago, Booth School of Business. My research advisors are [René Caldentey](https://faculty.chicagobooth.edu/rene-caldentey?_ga=2.143548341.1856357377.1668716911-1774430081.1668716911&_gl=1*ua7x8l*_ga*MTc3NDQzMDA4MS4xNjY4NzE2OTEx*_ga_PDRJWHFTEV*MTY2ODczMDAxNC4yLjEuMTY2ODczMDQxOC4zNC4wLjA.) and [Rad Niazadeh](https://faculty.chicagobooth.edu/rad-niazadeh).
 
-I am interested in studying the interplay of Economics and Computer Science and enjoy looking at the real world problems using a mathematical lens. In particular, I am interested in Game Theory, Revenue Management, Online Algorithms and Online Learning.
+I am interested in studying the interplay of Economics and Computer Science and enjoy looking at the real world problems using a mathematical lens. In particular, I am interested in Two-sided Markets, Revenue Management, Online Algorithms and Information Design.
 
 I completed my undergraduate degree in Computer Engineering at Sharif University of Technology, Iran. Before joining Booth, I did a master's in [Finance & Economics](https://www.lse.ac.uk/study-at-lse/Graduate/degree-programmes-2023/MSc-Finance-and-Economics) at London School of Economics, UK.
 
 # Ongoing Work
 
-  
+  * ### Optimal Matching in Ride Finder 
+    * With Rad Niazadeh, in collaboration with Lyft
   * ### A Stochastic Growth Model for Online Platforms
     * With René Caldentey
-  * ### [Prophet Inequalities with Cancellation Costs](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4779633)
-    * With Rad Niazadeh, Pranav Nuti, and Jan Vondrák
   * ### Dynamic Information Design in the Principal-Agent problem
     * With René Caldentey and Ennio Stacchetti
   * ### [Online Job Assignment](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4745629)
     * With Yiding Feng, Ian Kash, and Rad Niazadeh
+  * ### [Data-Driven Pricing for Availability-Based Upgrades Under a Multiple Binary Choice Model with Copula](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4960767)
+    * With Ovunc Yilmaz, Zifeng Zhao, Ruxian Wang and Andrew Vakhutinsky
     
 # Publications
 
