@@ -29,15 +29,15 @@ I completed my undergraduate degree in Computer Engineering at Sharif University
 # Publications
 
   * ### [Prophet Inequalities with Cancellation Costs](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4779633)
-    * In Proceedings of the 56th Annual ACM Symposium on Theory of Computing (STOC 2024)
     * With Rad Niazadeh, Pranav Nuti, and Jan Vondrák
+    * In Proceedings of the 56th Annual ACM Symposium on Theory of Computing (STOC 2024)
   * ### [Online Matching with Cancellation Costs](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4245468)
-    * In Proceedings of the 24th ACM Conference on Economics and Computation (EC 2023) apeared as "Online Resource Allocation with Buyback: Optimal Algorithms via Primal-Dual"
     * With Yiding Feng and Rad Niazadeh
     * Major Revision in Operations Research
+    * In Proceedings of the 24th ACM Conference on Economics and Computation (EC 2023) apeared as "Online Resource Allocation with Buyback: Optimal Algorithms via Primal-Dual"
   * ### [Quantitative assessment can stabilize indirect reciprocity under imperfect information](https://www.nature.com/articles/s41467-023-37817-x)
-    * Nature Communications 2023
     * With Laura Schmid, Christian Hilbe, and Krishnendu Chatterjee 
+    * Nature Communications 2023
   * ### [Circuit Imbalance Measures and Linear Programming](https://arxiv.org/abs/2108.03616)
-    * Surveys in Combinatorics 2022
     * With Bento Natura and László Végh
+    * Surveys in Combinatorics 2022
