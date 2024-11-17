@@ -33,7 +33,7 @@ I completed my undergraduate degree in Computer Engineering at Sharif University
     * In Proceedings of the 56th Annual ACM Symposium on Theory of Computing (STOC 2024)
   * ### [Online Matching with Cancellation Costs](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4245468)
     * With Yiding Feng and Rad Niazadeh
-    * Major Revision in Operations Research
+    * Major Revision at Operations Research
     * In Proceedings of the 24th ACM Conference on Economics and Computation (EC 2023) apeared as "Online Resource Allocation with Buyback: Optimal Algorithms via Primal-Dual"
   * ### [Quantitative assessment can stabilize indirect reciprocity under imperfect information](https://www.nature.com/articles/s41467-023-37817-x)
     * With Laura Schmid, Christian Hilbe, and Krishnendu Chatterjee 
