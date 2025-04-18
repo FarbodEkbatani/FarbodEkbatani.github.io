@@ -15,9 +15,11 @@ I completed my undergraduate degree in Computer Engineering at Sharif University
 
 # Ongoing Work
 
+  * ### When Rankings Matter: The Effect of Platform Rankings on Multihoming
+    * With René Caldentey and Gustavo Vulcano
   * ### Optimal Matching in Ride Finder 
     * With Rad Niazadeh, in collaboration with Lyft
-  * ### A Stochastic Growth Model for Online Platforms
+  * ### [A Stochastic Growth Model for Online Platforms](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5201117)
     * With René Caldentey
   * ### Dynamic Information Design in the Principal-Agent problem
     * With René Caldentey and Ennio Stacchetti
