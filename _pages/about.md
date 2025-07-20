@@ -15,21 +15,25 @@ I completed my undergraduate degree in Computer Engineering at Sharif University
 
 # Ongoing Work
 
-  * ### When Rankings Matter: The Effect of Platform Rankings on Multihoming
+  * ### Screening Gig-Economy Workers through Performance-Based Mechanisms
     * With René Caldentey and Gustavo Vulcano
   * ### Optimal Matching in Ride Finder 
     * With Rad Niazadeh, in collaboration with Lyft
-  * ### [A Stochastic Growth Model for Online Platforms](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5201117)
-    * With René Caldentey
   * ### Dynamic Information Design in the Principal-Agent problem
     * With René Caldentey and Ennio Stacchetti
   * ### [Online Job Assignment](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4745629)
     * With Yiding Feng, Ian Kash, and Rad Niazadeh
   * ### [Data-Driven Pricing for Availability-Based Upgrades Under a Multiple Binary Choice Model with Copula](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4960767)
     * With Ovunc Yilmaz, Zifeng Zhao, Ruxian Wang and Andrew Vakhutinsky
+    * Minor Revision at Manufacturing & Service Operations Management
+    * Finalist, M&SOM Practice-Based Research Competition, 2025
     
 # Publications
 
+  * ### [A Stochastic Growth Model for Online Platforms](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5201117)
+    * With René Caldentey
+    * Major Revision at Management Science
+    * In Proceedings of the 24th ACM Conference on Economics and Computation (EC 2023) apeared as "Online Resource Allocation with Buyback: Optimal Algorithms via Primal-Dual"
   * ### [Prophet Inequalities with Cancellation Costs](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4779633)
     * With Rad Niazadeh, Pranav Nuti, and Jan Vondrák
     * In Proceedings of the 56th Annual ACM Symposium on Theory of Computing (STOC 2024)
