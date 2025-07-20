@@ -23,6 +23,7 @@ I completed my undergraduate degree in Computer Engineering at Sharif University
     * With René Caldentey and Ennio Stacchetti
   * ### [Online Job Assignment](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4745629)
     * With Yiding Feng, Ian Kash, and Rad Niazadeh
+    * Journal version Submitted
   * ### [Data-Driven Pricing for Availability-Based Upgrades Under a Multiple Binary Choice Model with Copula](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4960767)
     * With Ovunc Yilmaz, Zifeng Zhao, Ruxian Wang and Andrew Vakhutinsky
     * Minor Revision at Manufacturing & Service Operations Management
@@ -37,6 +38,7 @@ I completed my undergraduate degree in Computer Engineering at Sharif University
   * ### [Prophet Inequalities with Cancellation Costs](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4779633)
     * With Rad Niazadeh, Pranav Nuti, and Jan Vondrák
     * In Proceedings of the 56th Annual ACM Symposium on Theory of Computing (STOC 2024)
+    * Journal version Submitted
   * ### [Online Matching with Cancellation Costs](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4245468)
     * With Yiding Feng and Rad Niazadeh
     * Major Revision at Operations Research
