@@ -21,10 +21,6 @@ I completed my undergraduate degree in Computer Engineering at Sharif University
     * With Rad Niazadeh, in collaboration with Lyft
   * ### Dynamic Information Design in the Principal-Agent problem
     * With René Caldentey and Ennio Stacchetti
-  * ### [Online Job Assignment](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4745629)
-    * With Yiding Feng, Ian Kash, and Rad Niazadeh
-    * Journal Version Submitted
-    * Oral Presentation in MSOM Supply Chain Management SIG 2024
 
   * ### [Data-Driven Pricing for Availability-Based Upgrades Under a Multiple Binary Choice Model with Copula](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4960767)
     * With Ovunc Yilmaz, Zifeng Zhao, Ruxian Wang and Andrew Vakhutinsky
@@ -33,9 +29,16 @@ I completed my undergraduate degree in Computer Engineering at Sharif University
     
 # Publications
 
+  * ### [Online Job Assignment](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4745629)
+    * With Yiding Feng, Ian Kash, and Rad Niazadeh
+    * Journal Version Submitted
+    * Oral Presentation in MSOM Supply Chain Management SIG 2024
+    * In Proceedings of the 21st Conference on Web and Internet Economics (WINE 2025)
+  
   * ### [A Stochastic Growth Model for Online Platforms](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5201117)
     * With René Caldentey
     * Major Revision at Management Science
+    * Finalist, George Nicholson Student Paper Competition 2025
     * In Proceedings of the 26th ACM Conference on Economics and Computation (EC 2025)
       
   * ### [Prophet Inequalities with Cancellation Costs](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4779633)
