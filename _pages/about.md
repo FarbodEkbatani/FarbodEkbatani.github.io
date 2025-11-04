@@ -38,7 +38,7 @@ I completed my undergraduate degree in Computer Engineering at Sharif University
   * ### [A Stochastic Growth Model for Online Platforms](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5201117)
     * With René Caldentey
     * Major Revision at Management Science
-    * Finalist, George Nicholson Student Paper Competition 2025
+    * Honorable Mention, George Nicholson Student Paper Competition 2025
     * In Proceedings of the 26th ACM Conference on Economics and Computation (EC 2025)
       
   * ### [Prophet Inequalities with Cancellation Costs](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4779633)
