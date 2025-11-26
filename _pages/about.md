@@ -25,7 +25,7 @@ I completed my undergraduate degree in Computer Engineering at Sharif University
   * ### [Data-Driven Pricing for Availability-Based Upgrades Under a Multiple Binary Choice Model with Copula](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4960767)
     * With Ovunc Yilmaz, Zifeng Zhao, Ruxian Wang and Andrew Vakhutinsky
     * Minor Revision at Manufacturing & Service Operations Management
-      <li style="list-style-type: none;">⭐ <strong>Finalist, M&SOM Practice-Based Research Competition, 2025</strong></li>
+    <li style="list-style-type: none;">⭐ <strong>Finalist, M&SOM Practice-Based Research Competition, 2025</strong></li>
     
 # Publications
 
@@ -39,7 +39,7 @@ I completed my undergraduate degree in Computer Engineering at Sharif University
     * With René Caldentey
     * Major Revision at Management Science
     * In Proceedings of the 26th ACM Conference on Economics and Computation (EC 2025)
-      <li style="list-style-type: none;">⭐ <strong>Honorable Mention, George Nicholson Student Paper Competition 2025</strong></li>
+    <li style="list-style-type: none;">⭐ <strong>Honorable Mention, George Nicholson Student Paper Competition 2025</strong></li>
       
   * ### [Prophet Inequalities with Cancellation Costs](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4779633)
     * With Rad Niazadeh, Pranav Nuti, and Jan Vondrák
