@@ -25,21 +25,21 @@ I completed my undergraduate degree in Computer Engineering at Sharif University
   * ### [Data-Driven Pricing for Availability-Based Upgrades Under a Multiple Binary Choice Model with Copula](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4960767)
     * With Ovunc Yilmaz, Zifeng Zhao, Ruxian Wang and Andrew Vakhutinsky
     * Minor Revision at Manufacturing & Service Operations Management
-    * Finalist, M&SOM Practice-Based Research Competition, 2025
+    * **Finalist, M&SOM Practice-Based Research Competition, 2025**
     
 # Publications
 
   * ### [Online Job Assignment](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4745629)
     * With Yiding Feng, Ian Kash, and Rad Niazadeh
     * Journal Version Submitted
-    * Oral Presentation in MSOM Supply Chain Management SIG 2024
     * In Proceedings of the 21st Conference on Web and Internet Economics (WINE 2025)
+    * **Oral Presentation in MSOM Supply Chain Management SIG 2024**
   
   * ### [A Stochastic Growth Model for Online Platforms](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5201117)
     * With René Caldentey
     * Major Revision at Management Science
-    * Honorable Mention, George Nicholson Student Paper Competition 2025
     * In Proceedings of the 26th ACM Conference on Economics and Computation (EC 2025)
+    * **Honorable Mention, George Nicholson Student Paper Competition 2025**
       
   * ### [Prophet Inequalities with Cancellation Costs](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4779633)
     * With Rad Niazadeh, Pranav Nuti, and Jan Vondrák
