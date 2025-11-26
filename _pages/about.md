@@ -39,7 +39,7 @@ I completed my undergraduate degree in Computer Engineering at Sharif University
     * With René Caldentey
     * Major Revision at Management Science
     * In Proceedings of the 26th ACM Conference on Economics and Computation (EC 2025)
-    <li style="list-style-type: none; padding-left: 24px;">     ⭐ <strong>Honorable Mention, George Nicholson Student Paper Competition 2025</strong></li>
+    <li style="list-style-type: none; padding-left: 20px;">     ⭐ <strong>Honorable Mention, George Nicholson Student Paper Competition 2025</strong></li>
       
   * ### [Prophet Inequalities with Cancellation Costs](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4779633)
     * With Rad Niazadeh, Pranav Nuti, and Jan Vondrák
