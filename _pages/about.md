@@ -31,7 +31,7 @@ I completed my undergraduate degree in Computer Engineering at Sharif University
 
   * ### [Online Job Assignment](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4745629)
     * With Yiding Feng, Ian Kash, and Rad Niazadeh
-    * Journal Version Submitted
+    * Major Revision at Operations Research
     * In Proceedings of the 21st Conference on Web and Internet Economics (WINE 2025)
     * **Oral Presentation in MSOM Supply Chain Management SIG 2024**
   
