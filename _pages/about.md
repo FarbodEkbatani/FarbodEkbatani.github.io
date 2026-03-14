@@ -43,7 +43,7 @@ I completed my undergraduate degree in Computer Engineering at Sharif University
       
   * ### [Prophet Inequalities with Cancellation Costs](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4779633)
     * With Rad Niazadeh, Pranav Nuti, and Jan Vondrák
-    * Journal Version Submitted
+    * Minor Revision at Operations Research
     * In Proceedings of the 56th Annual ACM Symposium on Theory of Computing (STOC 2024)
       
   * ### [Online Matching with Cancellation Costs](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4245468)
