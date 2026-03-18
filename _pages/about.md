@@ -17,11 +17,12 @@ I completed my undergraduate degree in Computer Engineering at Sharif University
 
   * ### Screening Gig-Economy Workers through Performance-Based Mechanisms
     * With René Caldentey and Gustavo Vulcano
-  * ### Optimal Matching in Ride Finder 
-    * With Rad Niazadeh, in collaboration with Lyft
-  * ### Dynamic Information Design in the Principal-Agent problem
+  * ### Steering Effort through Information Bundles
     * With René Caldentey and Ennio Stacchetti
-
+  * ### [Non-Exclusive Notifications for Ride-Hailing at Lyft I: Single-Cycle Approximation Algorithms](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6273539)
+    * With Rad Niazadeh, in collaboration with Lyft
+  * ### [Non-Exclusive Notifications for Ride-Hailing at Lyft II: Simulations and Marketplace Analysis](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6273598)
+    * With Rad Niazadeh, in collaboration with Lyft
   * ### [Data-Driven Pricing for Availability-Based Upgrades Under a Multiple Binary Choice Model with Copula](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4960767)
     * With Ovunc Yilmaz, Zifeng Zhao, Ruxian Wang and Andrew Vakhutinsky
     * Minor Revision at Manufacturing & Service Operations Management
