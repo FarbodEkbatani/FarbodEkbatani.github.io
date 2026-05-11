@@ -15,7 +15,7 @@ I completed my undergraduate degree in Computer Engineering at Sharif University
 
 # Talks
 
-**Non-Exclusive Notifications for Ride-Hailing at Lyft
+**Non-Exclusive Notifications for Ride-Hailing at Lyft**
 
   - **July 21–23** — Revenue Management and Pricing Section Conference, Ross School of Business
 
