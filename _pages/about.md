@@ -17,14 +17,14 @@ I completed my undergraduate degree in Computer Engineering at Sharif University
 
 **Non-Exclusive Notifications for Ride-Hailing at Lyft**
 
-  - **July 21–23** — Revenue Management and Pricing Section Conference, Ross School of Business
+  - **July 21–23** — RMP Conference, Ross School of Business, Ann Arbor
 
-  - **July 14** — MSOM Conference, Session TA12: *Service - Ride-Hailing Dispatch and Repositioning*  
-    Hawes 302 | 8:30 AM–10:00 AM
+  - **July 14** — MSOM Conference, Harvard Business School, Boston
+  - Session TA12: *Service - Ride-Hailing Dispatch and Repositioning*, Hawes 302 | 8:30 AM–10:00 AM
 
   - **April 23** — Operations Management Rookiepalooza, Kellogg School of Management, Evanston
 
-  - **March 27** — IOE-ISyE-MS&E Rising Stars Workshop, Ann Arbor
+  - **March 27** — IOE-ISyE-MS&E Rising Stars Workshop, University of Michgan, Ann Arbor
 
 # Ongoing Work
 
