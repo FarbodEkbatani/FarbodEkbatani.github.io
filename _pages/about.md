@@ -15,8 +15,6 @@ I completed my undergraduate degree in Computer Engineering at Sharif University
 
 # Talks
 
-### Talks
-
 **Non-Exclusive Notifications for Ride-Hailing at Lyft**
 
 * **July 21–23** — RMP Conference, Ross School of Business, Ann Arbor  
