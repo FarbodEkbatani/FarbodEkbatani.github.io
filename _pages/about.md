@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a fifth year Ph.D. student in [Management Science/ Operations Research](https://www.chicagobooth.edu/phd/dissertation-areas/management-science-and-operations-management) at The University of Chicago, Booth School of Business. My research advisors are [René Caldentey](https://faculty.chicagobooth.edu/rene-caldentey?_ga=2.143548341.1856357377.1668716911-1774430081.1668716911&_gl=1*ua7x8l*_ga*MTc3NDQzMDA4MS4xNjY4NzE2OTEx*_ga_PDRJWHFTEV*MTY2ODczMDAxNC4yLjEuMTY2ODczMDQxOC4zNC4wLjA.) and [Rad Niazadeh](https://faculty.chicagobooth.edu/rad-niazadeh).
+I am a final year Ph.D. student in [Management Science/ Operations Research](https://www.chicagobooth.edu/phd/dissertation-areas/management-science-and-operations-management) at The University of Chicago, Booth School of Business. My research advisors are [René Caldentey](https://faculty.chicagobooth.edu/rene-caldentey?_ga=2.143548341.1856357377.1668716911-1774430081.1668716911&_gl=1*ua7x8l*_ga*MTc3NDQzMDA4MS4xNjY4NzE2OTEx*_ga_PDRJWHFTEV*MTY2ODczMDAxNC4yLjEuMTY2ODczMDQxOC4zNC4wLjA.) and [Rad Niazadeh](https://faculty.chicagobooth.edu/rad-niazadeh).
 
 I am interested in studying the interplay of Economics and Computer Science and enjoy looking at the real world problems using a mathematical lens. In particular, I am passionate about new paradigms in online resource allocation, matching in marketplace, and platform market design.
 
@@ -39,7 +39,7 @@ I completed my undergraduate degree in Computer Engineering at Sharif University
     
 # Publications
 
-  * ### [Data-Driven Pricing for Availability-Based Upgrades Under a Multiple Binary Choice Model with Copula](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4960767)
+  * ### [Data-Driven Pricing for Availability-Based Upgrades Under a Multiple Binary Choice Model with Copula](https://pubsonline.informs.org/doi/10.1287/msom.2025.0328?__cf_chl_f_tk=m4_E0xU35igc8f8SirTD0mWEAltu3ahf8fH35qhILNw-1783109419-1.0.1.1-Td5L1MroaIwSiMPaW9L3V2aq6O5.9WCLvY1.GPiYAdI)
     * With Ovunc Yilmaz, Zifeng Zhao, Ruxian Wang and Andrew Vakhutinsky
     * Manufacturing & Service Operations Management, forthcoming
     <li style="list-style-type: none; padding-left: 20px;">⭐ <strong>Finalist, M&SOM Practice-Based Research Competition, 2025</strong></li>
