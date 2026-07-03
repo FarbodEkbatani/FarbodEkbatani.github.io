@@ -13,9 +13,6 @@ I am interested in studying the interplay of Economics and Computer Science and 
 
 I completed my undergraduate degree in Computer Engineering at Sharif University of Technology, Iran. Before joining Booth, I did a master's in [Finance & Economics](https://www.lse.ac.uk/study-at-lse/Graduate/degree-programmes-2023/MSc-Finance-and-Economics) at London School of Economics, UK.
 
-<span style="color: red; font-weight: bold;">I am on the 2026–2027 academic job market!</span>
-
-
 # Talks
 
 **Non-Exclusive Notifications for Ride-Hailing at Lyft**
@@ -37,13 +34,13 @@ I completed my undergraduate degree in Computer Engineering at Sharif University
     * With Rad Niazadeh, in collaboration with Lyft
   * ### [Non-Exclusive Notifications for Ride-Hailing at Lyft II: Simulations and Marketplace Analysis](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6273598)
     * With Rad Niazadeh, in collaboration with Lyft
-  * ### [Data-Driven Pricing for Availability-Based Upgrades Under a Multiple Binary Choice Model with Copula](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4960767)
-    * With Ovunc Yilmaz, Zifeng Zhao, Ruxian Wang and Andrew Vakhutinsky
-    * Minor Revision at Manufacturing & Service Operations Management
-    <li style="list-style-type: none; padding-left: 20px;">⭐ <strong>Finalist, M&SOM Practice-Based Research Competition, 2025</strong></li>
     
 # Publications
 
+  * ### [Data-Driven Pricing for Availability-Based Upgrades Under a Multiple Binary Choice Model with Copula](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4960767)
+    * With Ovunc Yilmaz, Zifeng Zhao, Ruxian Wang and Andrew Vakhutinsky
+    * Manufacturing & Service Operations Management, forthcoming
+    <li style="list-style-type: none; padding-left: 20px;">⭐ <strong>Finalist, M&SOM Practice-Based Research Competition, 2025</strong></li>
   * ### [Online Job Assignment](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4745629)
     * With Yiding Feng, Ian Kash, and Rad Niazadeh
     * Major Revision at Operations Research
