@@ -13,7 +13,7 @@ I am interested in studying the interplay of Economics and Computer Science and 
 
 I completed my undergraduate degree in Computer Engineering at Sharif University of Technology, Iran. Before joining Booth, I did a master's in [Finance & Economics](https://www.lse.ac.uk/study-at-lse/Graduate/degree-programmes-2023/MSc-Finance-and-Economics) at London School of Economics, UK.
 
-**I am on the 2026-2027 academic job market!**
+<span style="color: red;">**I am on the 2026-2027 academic job market!**</span>
 
 # Talks
 
