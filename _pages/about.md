@@ -15,12 +15,13 @@ I completed my undergraduate degree in Computer Engineering at Sharif University
 
 <span style="color: red; font-weight: bold;">I am on the 2026–2027 academic job market!</span>
 
+
 # Talks
 
 **Non-Exclusive Notifications for Ride-Hailing at Lyft**
 
 * **July 21** — RMP Conference, Ross School of Business, Ann Arbor  
-  *Block 1: Market Algorithms* | R1240, 8:00AM - 9:20AM
+  *Block 1: Market Algorithms* | R1240, 8:00 AM - 9:20 AM
 * **July 14** — MSOM Conference, Harvard Business School, Boston  
   *Session TA12: Service - Ride-Hailing Dispatch and Repositioning* | Hawes 302, 8:30 AM–10:00 AM
 * **April 23** — Operations Management Rookiepalooza, Kellogg School of Management, Evanston  
