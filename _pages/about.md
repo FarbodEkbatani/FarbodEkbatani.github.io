@@ -13,26 +13,14 @@ I am interested in studying the interplay of Economics and Computer Science and 
 
 I completed my undergraduate degree in Computer Engineering at Sharif University of Technology, Iran. Before joining Booth, I did a master's in [Finance & Economics](https://www.lse.ac.uk/study-at-lse/Graduate/degree-programmes-2023/MSc-Finance-and-Economics) at London School of Economics, UK.
 
-***
-
-<div style="background-color: #fcf8e3; border-left: 5px solid #f0ad4e; padding: 15px; margin: 20px 0;">
-  <strong>📢 Academic Job Market Update</strong><br>
-  I am on the 2026–2027 academic job market! 
-  <br><br>
-  • <strong>Research Interests:</strong> Online Resource Allocation, Marketplace Matching, Platform Market Design, Interface of Economics & Computer Science.<br>
-  • <strong>Job Market Paper:</strong> <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6273539">Non-Exclusive Notifications for Ride-Hailing at Lyft I: Single-Cycle Approximation Algorithms</a><br>
-  • <strong>Links:</strong> [Curriculum Vitae (PDF)](#) | [Research Statement](#) | [Teaching Statement](#)<br>
-  • <strong>References:</strong> René Caldentey, Rad Niazadeh, [Add other references here]
-</div>
-
-***
+<span style="color: red; font-weight: bold;">I am on the 2026–2027 academic job market!</span>
 
 # Talks
 
 **Non-Exclusive Notifications for Ride-Hailing at Lyft**
 
-* **July 21–23** — RMP Conference, Ross School of Business, Ann Arbor  
-  *Session details TBA*
+* **July 21** — RMP Conference, Ross School of Business, Ann Arbor  
+  *Block 1: Market Algorithms* | R1240, 8:00AM - 9:20AM
 * **July 14** — MSOM Conference, Harvard Business School, Boston  
   *Session TA12: Service - Ride-Hailing Dispatch and Repositioning* | Hawes 302, 8:30 AM–10:00 AM
 * **April 23** — Operations Management Rookiepalooza, Kellogg School of Management, Evanston  
