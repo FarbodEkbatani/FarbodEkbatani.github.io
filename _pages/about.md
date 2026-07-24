@@ -20,7 +20,6 @@ I completed my undergraduate degree in Computer Engineering at Sharif University
 **Non-Exclusive Notifications for Ride-Hailing at Lyft**
 
 * **July 21** — RMP Conference, Ross School of Business, Ann Arbor  
-  *Block 1: Market Algorithms* | R1240, 8:00 AM - 9:20 AM
 * **July 14** — MSOM Conference, Harvard Business School, Boston
 * **April 23** — Operations Management Rookiepalooza, Kellogg School of Management, Evanston  
 * **March 27** — IOE-ISyE-MS&E Rising Stars Workshop, University of Michigan, Ann Arbor
