@@ -34,14 +34,14 @@ I completed my undergraduate degree in Computer Engineering at Sharif University
   
 # Ongoing Work
 
-  * ### Screening Gig-Economy Workers through Performance-Based Mechanisms
-    * With René Caldentey and Gustavo Vulcano
-  * ### Steering Effort through Information Bundles
-    * With René Caldentey and Ennio Stacchetti
   * ### [Non-Exclusive Notifications for Ride-Hailing at Lyft I: Single-Cycle Approximation Algorithms](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6273539)
     * With Rad Niazadeh, in collaboration with Lyft
   * ### [Non-Exclusive Notifications for Ride-Hailing at Lyft II: Simulations and Marketplace Analysis](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6273598)
     * With Rad Niazadeh, in collaboration with Lyft
+  * ### Screening Gig-Economy Workers through Performance-Based Mechanisms
+    * With René Caldentey and Gustavo Vulcano
+  * ### Steering Effort through Information Bundles
+    * With René Caldentey and Ennio Stacchetti
     
 # Publications
 
