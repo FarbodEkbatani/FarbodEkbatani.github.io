@@ -19,18 +19,23 @@ I completed my undergraduate degree in Computer Engineering at Sharif University
 
 **Non-Exclusive Notifications for Ride-Hailing at Lyft**
 
-* **November 14** — WORDS, Fuqua School of Business, Durham
-* **November 3** — INFORMS Annual Meeting, San Francisco
+### Upcoming
+
+* **November 14, 2026** — WORDS, Fuqua School of Business, Durham
+* **November 3, 2026** — INFORMS Annual Meeting, San Francisco
   1:15 PM - 2:30 PM, Moscone South-50 (Lower Mezz)  
   Session: Mechanism Design and Operations in Platforms
-* **November 3** — INFORMS Annual Meeting, San Francisco  
+* **November 3, 2026** — INFORMS Annual Meeting, San Francisco  
   11:00 AM - 12:15 PM, Moscone South-203 (Level 2)  
   Session: Revenue Management, Matching, and Assortments
-* **August 31** — Rotman Young Scholar Seminar, Online
-* **July 21** — RMP Conference, Ross School of Business, Ann Arbor  
-* **July 14** — MSOM Conference, Harvard Business School, Boston
-* **April 23** — Operations Management Rookiepalooza, Kellogg School of Management, Evanston  
-* **March 27** — IOE-ISyE-MS&E Rising Stars Workshop, University of Michigan, Ann Arbor
+
+### Past
+
+* **August 31, 2026** — Rotman Young Scholar Seminar, Online
+* **July 21, 2026** — RMP Conference, Ross School of Business, Ann Arbor  
+* **July 14, 2026** — MSOM Conference, Harvard Business School, Boston
+* **April 23, 2026** — Operations Management Rookiepalooza, Kellogg School of Management, Evanston  
+* **March 27, 2026** — IOE-ISyE-MS&E Rising Stars Workshop, University of Michigan, Ann Arbor
   
 # Ongoing Work
 
@@ -42,6 +47,8 @@ I completed my undergraduate degree in Computer Engineering at Sharif University
     * With René Caldentey and Gustavo Vulcano
   * ### Steering Effort through Information Bundles
     * With René Caldentey and Ennio Stacchetti
+  * ### [Dynamic Run-Out Pricing for Perishable Goods](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7324698)
+    * Solo-authored
     
 # Publications
 
@@ -60,12 +67,14 @@ I completed my undergraduate degree in Computer Engineering at Sharif University
     * Major Revision at Management Science
     * In Proceedings of the 26th ACM Conference on Economics and Computation (EC 2025)
     <li style="list-style-type: none; padding-left: 20px;">     ⭐ <strong>Honorable Mention, George Nicholson Student Paper Competition 2025</strong></li>
+    <li style="list-style-type: none; padding-left: 20px;">     ⭐ <strong>Finalist, MSOM Student Paper Competition 2026 (winner TBA)</strong></li>
       
   * ### [Prophet Inequalities with Cancellation Costs](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4779633)
     * With Rad Niazadeh, Pranav Nuti, and Jan Vondrák
     * Minor Revision at Operations Research
     * In Proceedings of the 27th ACM Conference on Economics and Computation (EC 2026)
     * In Proceedings of the 56th Annual ACM Symposium on Theory of Computing (STOC 2024)
+    <li style="list-style-type: none; padding-left: 20px;">     ⭐ <strong>Finalist, Applied Probability Society (APS) Student Paper Prize 2026 (winner TBA)</strong></li>
       
   * ### [Online Matching with Cancellation Costs](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4245468)
     * With Yiding Feng and Rad Niazadeh
@@ -77,3 +86,9 @@ I completed my undergraduate degree in Computer Engineering at Sharif University
   * ### [Circuit Imbalance Measures and Linear Programming](https://arxiv.org/abs/2108.03616)
     * With Bento Natura and László Végh
     * Surveys in Combinatorics 2022
+
+# Patents
+
+  * ### Machine Learning Based Overbooking Limit Optimization
+    * With Andrew Vakhutinsky, Jason G. Bryant, Kirby Bosch, Zuxuan Huai, Boro Petrovic, Jorge Luis Rivero Perez, and Natalia Kosilova
+    * US Patent Application No. 19/079,626, 2026
