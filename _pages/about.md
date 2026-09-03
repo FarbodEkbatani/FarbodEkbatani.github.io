@@ -19,6 +19,14 @@ I completed my undergraduate degree in Computer Engineering at Sharif University
 
 **Non-Exclusive Notifications for Ride-Hailing at Lyft**
 
+* **November 14** — WORDS, Fuqua School of Business, Durham
+* **November 3** — INFORMS Annual Meeting, San Francisco
+  1:15 PM - 2:30 PM, Moscone South-50 (Lower Mezz)  
+  Session: Mechanism Design and Operations in Platforms
+* **November 3** — INFORMS Annual Meeting, San Francisco  
+  11:00 AM - 12:15 PM, Moscone South-203 (Level 2)  
+  Session: Revenue Management, Matching, and Assortments
+* **August 31** — Rotman Young Scholar Seminar, Online
 * **July 21** — RMP Conference, Ross School of Business, Ann Arbor  
 * **July 14** — MSOM Conference, Harvard Business School, Boston
 * **April 23** — Operations Management Rookiepalooza, Kellogg School of Management, Evanston  
