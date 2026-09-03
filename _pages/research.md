@@ -1,9 +1,10 @@
 ---
 permalink: /research/
 title: "Research"
-hide_title: true
 author_profile: true
 ---
+
+<style>.page__title { display: none; }</style>
 
 # Ongoing Work
 
@@ -16,7 +17,6 @@ author_profile: true
   * ### Steering Effort through Information Bundles
     * With René Caldentey and Ennio Stacchetti
   * ### [Dynamic Run-Out Pricing for Perishable Goods](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7324698)
-    * Solo-authored
     
 # Publications
 
