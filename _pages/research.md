@@ -42,6 +42,7 @@ author_profile: true
     * Minor Revision at Operations Research
     * In Proceedings of the 27th ACM Conference on Economics and Computation (EC 2026)
     * In Proceedings of the 56th Annual ACM Symposium on Theory of Computing (STOC 2024)
+    * Companion note, [Bounded Best Buyers: Prophet Inequalities Revisited](https://pranavnuti.com/Bounded%20Best%20Buyers.pdf), Easy Peasy Workshop (EC 2026)
     <li style="list-style-type: none; padding-left: 20px;">     ⭐ <strong>Finalist, APS Student Paper Prize 2026 (winner TBA)</strong></li>
       
   * ### [Online Matching with Cancellation Costs](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4245468)
