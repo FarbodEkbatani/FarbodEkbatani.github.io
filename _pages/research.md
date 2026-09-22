@@ -10,9 +10,9 @@ author_profile: true
 
   * ### [Non-Exclusive Notifications for Ride-Hailing at Lyft I: Single-Cycle Approximation Algorithms](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6273539)
     * With Rad Niazadeh, in collaboration with Lyft
-    * Major Revision at Management Science
   * ### [Non-Exclusive Notifications for Ride-Hailing at Lyft II: Simulations and Marketplace Analysis](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6273598)
     * With Rad Niazadeh, in collaboration with Lyft
+    * Major Revision at Management Science
   * ### Screening Gig-Economy Workers through Performance-Based Mechanisms
     * With René Caldentey and Gustavo Vulcano
   * ### Steering Effort through Information Bundles
