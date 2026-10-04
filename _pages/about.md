@@ -17,7 +17,7 @@ I completed my undergraduate degree in Computer Engineering at Sharif University
 
 # Upcoming Talks
 
-**Non-Exclusive Notifications for Ride-Hailing at Lyft**
+**Non-Exclusive Notifications for Ride-Hailing at Lyft** (job market paper)
 
 * **November 14, 2026** — WORDS, Fuqua School of Business, Durham
 * **November 3, 2026** — INFORMS Annual Meeting, San Francisco  
