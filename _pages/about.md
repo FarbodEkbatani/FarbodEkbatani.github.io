@@ -11,10 +11,11 @@ I am a final-year Ph.D. student in [Management Science/ Operations Research](htt
 I study the interplay of operations, economics, and computer science, applying a mathematical lens to real-world platform challenges. I am fundamentally driven by the operational frictions of the modern gig economy: how can platforms run highly scalable, automated real-time algorithms while simultaneously managing the complex incentives of a decentralized, independent workforce? To resolve this tension, my Ph.D. research tackles the challenges arising from this tight coupling of operations and incentives, exploring new paradigms in online resource allocation, marketplace matching, and platform market design.
 
 <span style="color: red;">**I am on the 2026-2027 academic job market!**</span>
+Job market paper: [Non-Exclusive Notifications for Ride-Hailing at Lyft](https://uchicago.box.com/s/rl4lbx3ywyydhqt9sgv8tl3tiz2sr6dn) · [CV](https://drive.google.com/file/d/1H8mjJmDUVHCTcfbD_-1hs_-a7ZxSNGfh/view?usp=sharing)
 
 # Upcoming Talks
 
-**[Non-Exclusive Notifications for Ride-Hailing at Lyft](https://uchicago.box.com/s/rl4lbx3ywyydhqt9sgv8tl3tiz2sr6dn)** (job market paper)
+**Non-Exclusive Notifications for Ride-Hailing at Lyft**
 
 * **November 14, 2026** — WORDS, Fuqua School of Business, Durham
 * **November 3, 2026** — INFORMS Annual Meeting, San Francisco  
