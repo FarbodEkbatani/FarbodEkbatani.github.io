@@ -24,7 +24,7 @@ author_profile: true
   * ### [Data-Driven Pricing for Availability-Based Upgrades Under a Multiple Binary Choice Model with Copula](https://pubsonline.informs.org/doi/10.1287/msom.2025.0328?__cf_chl_f_tk=m4_E0xU35igc8f8SirTD0mWEAltu3ahf8fH35qhILNw-1783109419-1.0.1.1-Td5L1MroaIwSiMPaW9L3V2aq6O5.9WCLvY1.GPiYAdI)
     * With Ovunc Yilmaz, Zifeng Zhao, Ruxian Wang and Andrew Vakhutinsky
     * Manufacturing & Service Operations Management, 28(4), 1112–1132, 2026
-    <li style="list-style-type: none; padding-left: 20px;">⭐ <strong>Finalist, M&SOM Practice-Based Research Competition, 2025</strong></li>
+    <li style="list-style-type: none; padding-left: 20px;">⭐ <strong>Finalist, M&SOM Practice-Based Research Competition 2025 </strong></li>
   * ### [Online Job Assignment](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4745629)
     * With Yiding Feng, Ian Kash, and Rad Niazadeh
     * Major Revision at Operations Research
@@ -36,7 +36,7 @@ author_profile: true
     * Major Revision at Management Science
     * In Proceedings of the 26th ACM Conference on Economics and Computation (EC 2025)
     <li style="list-style-type: none; padding-left: 20px;">     ⭐ <strong>Honorable Mention, George Nicholson Student Paper Competition 2025</strong></li>
-    <li style="list-style-type: none; padding-left: 20px;">     ⭐ <strong>Finalist, MSOM Student Paper Competition 2026 (winner TBA)</strong></li>
+    <li style="list-style-type: none; padding-left: 20px;">     ⭐ <strong>Finalist, MSOM Student Paper Competition 2026 </strong></li>
       
   * ### [Prophet Inequalities with Cancellation Costs](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4779633)
     * With Rad Niazadeh, Pranav Nuti, and Jan Vondrák
@@ -44,7 +44,7 @@ author_profile: true
     * In Proceedings of the 27th ACM Conference on Economics and Computation (EC 2026)
     * In Proceedings of the 56th Annual ACM Symposium on Theory of Computing (STOC 2024)
     * Companion note, [Bounded Best Buyers: Prophet Inequalities Revisited](https://pranavnuti.com/Bounded%20Best%20Buyers.pdf), Easy Peasy Workshop (EC 2026)
-    <li style="list-style-type: none; padding-left: 20px;">     ⭐ <strong>Finalist, APS Student Paper Prize 2026 (winner TBA)</strong></li>
+    <li style="list-style-type: none; padding-left: 20px;">     ⭐ <strong>Finalist, APS Student Paper Prize 2026 </strong></li>
       
   * ### [Online Resource Allocation with Cancellations](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4245468)
     * With Yiding Feng and Rad Niazadeh
