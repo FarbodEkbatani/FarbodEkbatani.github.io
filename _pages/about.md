@@ -18,7 +18,7 @@ Job market paper: [Non-Exclusive Notifications for Ride-Hailing at Lyft](https:/
 
 **Non-Exclusive Notifications for Ride-Hailing at Lyft**
 
-* **November 14, 2026** — WORDS, Fuqua School of Business, Durham
+* **November 14, 2026** — [WORDS](https://sites.duke.edu/words2026), Fuqua School of Business, Durham
 
 # Past Talks
 
