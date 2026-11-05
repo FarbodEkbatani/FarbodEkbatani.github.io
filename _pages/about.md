@@ -19,31 +19,22 @@ Job market paper: [Non-Exclusive Notifications for Ride-Hailing at Lyft](https:/
 **Non-Exclusive Notifications for Ride-Hailing at Lyft**
 
 * **November 14, 2026** — WORDS, Fuqua School of Business, Durham
-* **November 3, 2026** — INFORMS Annual Meeting, San Francisco  
-  1:15 PM - 2:30 PM, Moscone South-50 (Lower Mezz)  
-  Session: Mechanism Design and Operations in Platforms
-* **November 3, 2026** — INFORMS Annual Meeting, San Francisco  
-  11:00 AM - 12:15 PM, Moscone South-203 (Level 2)  
-  Session: Revenue Management, Matching, and Assortments
-
-**Prophet Inequalities with Cancellation Costs**
-
-* **November 1, 2026** — INFORMS Annual Meeting, San Francisco  
-  4:15 PM - 5:30 PM, Moscone South-312 (Level 3)  
-  Session: APS Student Competition Finalists
-
-**A Stochastic Growth Model for Online Platforms**
-
-* **November 1, 2026** — INFORMS Annual Meeting, San Francisco  
-  1:15 PM - 2:30 PM, Moscone South-151 (Upper Mezz)  
-  Session: MSOM Student Paper Competition I
 
 # Past Talks
 
 **Non-Exclusive Notifications for Ride-Hailing at Lyft**
 
+* **November 3, 2026** — INFORMS Annual Meeting, San Francisco  
 * **August 31, 2026** — Rotman Young Scholar Seminar, Online
 * **July 21, 2026** — RMP Conference, Ross School of Business, Ann Arbor  
 * **July 14, 2026** — MSOM Conference, Harvard Business School, Boston
 * **April 23, 2026** — Operations Management Rookiepalooza, Kellogg School of Management, Evanston  
 * **March 27, 2026** — IOE-ISyE-MS&E Rising Stars Workshop, University of Michigan, Ann Arbor
+
+**Prophet Inequalities with Cancellation Costs**
+
+* **November 1, 2026** — APS Student Competition, INFORMS Annual Meeting, San Francisco  
+
+**A Stochastic Growth Model for Online Platforms**
+
+* **November 1, 2026** — MSOM Student Competition, INFORMS Annual Meeting, San Francisco  
